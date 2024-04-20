@@ -8,7 +8,7 @@ If you assume those lessons were all about learning how to write good code, thes
 
 We're taking a look at some more Computer Science-y concepts here because they are fundamental for a reason. Some problems require you to use tools beyond just arrays and iterators. There's no sense reinventing the wheel when others have already figured out good methods for solving certain types of problems.
 
-If that doesn't get you interested, remember that this curriculum is meant to prepare you for life beyond the web page. If you're interested in applying for a job, you'll be asked questions that directly touch on some of this stuff.  It's going to require you to put on your thinking cap (sorry, it had to happen sometime), but we won't be doing anything too crazy. We'll stick to the practical side of this material as opposed to getting too stuck in theory.
+If that doesn't get you interested, remember that this curriculum is meant to prepare you for life beyond the web page. If you're interested in applying for a job, you'll be asked questions that directly touch on some of this stuff. It's going to require you to put on your thinking cap (sorry, it had to happen sometime), but we won't be doing anything too crazy. We'll stick to the practical side of this material as opposed to getting too stuck in theory.
 
 ### Lesson overview
 
@@ -41,3 +41,5 @@ This section contains helpful links to other content. It isn't required, so cons
 - [Wikipedia on Computer Science](http://en.wikipedia.org/wiki/Computer_science)
 - [Wikipedia on Algorithms](http://en.wikipedia.org/wiki/Algorithm)
 - [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
+
+### Modified Section
